@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding: 0;
+    padding: 5px;
     background: #047e33;
   }
 
@@ -9,5 +9,5 @@ body {
 .mainPhoto{ 
 
     height: 200px;
-    width: 200px;
+    width: 300px;
 }
