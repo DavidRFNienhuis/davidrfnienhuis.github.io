@@ -6,7 +6,6 @@ body {
   }
 
   h1{
-    style="text-align: left;"
     style="font-family: Georgia, 'Times New Roman', Times, serif;" 
     style="font-size: large;" 
   }
@@ -18,7 +17,6 @@ div{
 }
 
 p{
-    style="font-family: cursive;"
     margin: 5px;
     padding: 5px;
     height: 200px;
