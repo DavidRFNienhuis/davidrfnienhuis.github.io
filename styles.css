@@ -5,6 +5,12 @@ body {
     style="font-family: Georgia, 'Times New Roman', Times, serif;"
   }
 
+  h1{
+    style="text-align:center;"
+    style="font-family: Georgia, 'Times New Roman', Times, serif;" 
+    style="font-size: large;" 
+  }
+
 
 div{
     style="font-family: Georgia, 'Times New Roman', Times, serif;"
@@ -12,6 +18,7 @@ div{
 }
 
 p{
+    style="font-family: cursive;"
     margin: 5px;
     padding: 5px;
     height: 200px;
