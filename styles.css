@@ -11,6 +11,13 @@ div{
     style="font-size: medium;"
 }
 
+p{
+    margin: 5px;
+    padding: 5px;
+    height: 200px;
+    width: 300px;
+}
+
 
 
 .mainPhoto{ 
