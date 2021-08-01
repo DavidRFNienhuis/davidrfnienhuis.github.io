@@ -12,14 +12,14 @@ header, footer{
 
 header, aside, article, footer{
     border-style: solid;
-    background: #e47c52;
+    background: #52c7e4;
 
 }
 
 body {
     margin: 5px;
     padding: 5px;
-    background: #e47c52;
+    background: #52c7e4;
     style="font-family: Georgia, 'Times New Roman', Times, serif;"
   }
 
@@ -35,7 +35,7 @@ div{
 }
 
 p{
-    margin: 5px;
+    margin 5px;
     padding: 5px;
     height: 200px;
     width: 300px;
