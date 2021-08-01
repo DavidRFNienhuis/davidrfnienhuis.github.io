@@ -8,13 +8,12 @@
 }
 
 header, footer{
-    
-    grid-column: 1/4;
+        grid-column: 1/4;
 }
 
 header, aside, article, footer{
     border-style: solid;
-    background: #9db1eb;
+    background: #e47c52;
 
 }
 
