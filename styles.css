@@ -1,6 +1,6 @@
 .grid{
     display: grid;
-    grid-template-columns: auto 1fr auto;
+    grid-template-columns: 200px 1fr 200px;
     grid-template-rows: auto 1fr auto;
     gap: 5px
     height 90vh
@@ -13,13 +13,10 @@ header, footer{
 header, aside, article, footer{
     border-style: solid;
     background: #52c7e4;
+    font-size: 2em;
 
 }
-  h1{
-    style="font-family: Georgia, 'Times New Roman', Times, serif;" 
-    style="font-size: large;" 
-  }
-
+  
 
 div{
     style="font-family: Georgia, 'Times New Roman', Times, serif;"
