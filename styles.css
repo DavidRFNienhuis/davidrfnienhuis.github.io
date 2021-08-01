@@ -15,14 +15,6 @@ header, aside, article, footer{
     background: #52c7e4;
 
 }
-
-body {
-    margin: 5px;
-    padding: 5px;
-    background: #52c7e4;
-    style="font-family: Georgia, 'Times New Roman', Times, serif;"
-  }
-
   h1{
     style="font-family: Georgia, 'Times New Roman', Times, serif;" 
     style="font-size: large;" 
