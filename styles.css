@@ -10,11 +10,16 @@ header, footer{
         grid-column: 1/4;
 }
 
-header, aside, article, footer{
+header, article, footer{
     border-style: solid;
     background: #52c7e4;
     font-size: 2em;
 
+}
+
+aside{
+
+    font-size: small
 }
   
 
