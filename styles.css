@@ -8,20 +8,17 @@
 
 header, footer{
         grid-column: 1/4;
+        font-size: x-large;
 }
 
-header, aside, footer{
+header, article, aside, footer{
     border-style: solid;
-    background: #52c7e4;
+    background: #04AA6D;
     font-size: 2em;
 
 }
 
-article{
-
-    font-size: small
-}
-  
+ 
 
 p{
     margin: 5px;
