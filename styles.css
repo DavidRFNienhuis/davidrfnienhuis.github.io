@@ -8,8 +8,8 @@
 
 
 header, footer{
-        grid-column: 1/4;
-        font-size: x-large;
+  grid-column: 1/4;
+  font-size: x-large;
 }
 
 header, article, aside, footer{
