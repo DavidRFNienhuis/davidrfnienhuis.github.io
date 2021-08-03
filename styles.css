@@ -22,8 +22,8 @@ header, article, aside, footer{
 .mainPhoto{ 
     margin: 0;
     padding: 5px;
-    height: 200px;
-    width: 300px;
+    height: auto;
+    width: auto;
 }
 
  
