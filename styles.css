@@ -4,7 +4,7 @@
     grid-template-rows: auto 1fr auto;
     gap: 5px
     height 90vh
-    font-family: "cursive", "Lucida Handwriting";
+    
 }
 
 header, footer{
@@ -17,6 +17,7 @@ header, article, aside, footer{
     background: #055337;
     font-size: 1.5em;
     color: #f2f2f2;
+    font-family: "cursive", "Lucida Handwriting";
     
 
 }
