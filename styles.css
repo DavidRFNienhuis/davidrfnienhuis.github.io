@@ -13,7 +13,7 @@ header, footer{
 }
 
 header, article, aside, footer{
-    border-style: none;
+    border-style: solid;
     background: #04AA6D;
     font-size: 1em;
 
