@@ -6,7 +6,6 @@
     height 90vh
 }
 
-
 header, footer{
   grid-column: 1/4;
   font-size: x-large;
@@ -14,7 +13,7 @@ header, footer{
 
 header, article, aside, footer{
     border-style: solid;
-    background: #04AA6D;
+    background: #aa4604;
     font-size: 2em;
 
 }
