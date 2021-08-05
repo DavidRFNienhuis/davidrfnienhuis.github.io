@@ -1,14 +1,10 @@
+
 .grid{
     display: grid;
     grid-template-columns: 200px 1fr 200px;
     grid-template-rows: auto 1fr auto;
     gap: 5px
     height 90vh
-    
-}
-
-.one{
-    font-family: serif, Garamond;
 }
 
 header, footer{
@@ -21,9 +17,15 @@ header, article, aside, footer{
     background: #055337;
     font-size: 1.5em;
     color: #f2f2f2;
+
 }
 
- 
+.list {
+    font-family: "cursive", "Lucida Handwriting";
+
+
+}
+
 .topnav {
     background-color: #333;
     overflow: hidden;
@@ -49,5 +51,3 @@ header, article, aside, footer{
     background-color: #055337;
     color: white;
   }
-  
-
