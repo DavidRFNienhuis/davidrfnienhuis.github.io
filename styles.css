@@ -18,15 +18,15 @@ header, footer{
 
 header, article, aside, footer{
     border-style: solid;
-    background: #055337;
+    background: #066643;
     font-size: 1.5em;
     color: #f2f2f2;
 }
 
 .mainpic{
 
-  height: auto;
-  width: auto;
+  height: fit-content;
+  width: fit-content;
 }
 
  
@@ -52,7 +52,7 @@ header, article, aside, footer{
   }
   
 .topnav a.active {
-    background-color: #055337;
+    background-color: #066643;
     color: white;
   }
   
