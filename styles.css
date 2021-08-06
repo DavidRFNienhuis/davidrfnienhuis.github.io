@@ -11,6 +11,11 @@
     font-family: serif, Garamond;
   }
 
+.two{
+background: #333;
+
+}
+
 a:link {
   text-decoration: none;
 }
@@ -28,18 +33,13 @@ header, footer{
   text-align: center;
 }
 
-header, article {
+header, article, aside, footer{
     border-style: solid;
     background: #066643;
     font-size: 1.5em;
     color: #f2f2f2;
 }
 
-
-aside, footer{
-  background: #333;
-  color: #f2f2f2;
-}
 
 .mainpic{
   width: 100%;
