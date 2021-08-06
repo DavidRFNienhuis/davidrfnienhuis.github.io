@@ -16,6 +16,10 @@ a:link {
   color: #333;
 }
 
+a:hover {
+  color: hotpink;
+}
+
 header, footer{
   grid-column: 1/4;
   text-align: center;
